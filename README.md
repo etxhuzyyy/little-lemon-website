@@ -1,4 +1,4 @@
-# My capstone project for the Meta Front-End Developer Professional Certificate
+# Capstone project - Meta Front-End Developer - Professional Certificate
 
 My capstone project for the Meta Front-End Developer Professional Certificate is like the big finale of my web development training. It's where I bring together everything I've learned and put it into action to create something awesome.
 
